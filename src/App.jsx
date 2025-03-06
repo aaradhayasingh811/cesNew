@@ -6,6 +6,8 @@ import About from './component/About'
 import Faculty from './component/Faculty'
 import Event from './component/Event'
 import Footer from './component/Footer'
+// import DisabledAccordion from './component/DisabledAccordion'
+import Faqs from './component/Faqs'
 function App() {
 
   return (
@@ -15,6 +17,8 @@ function App() {
     <About/>
     <Faculty/>
     <Event/>
+    {/* faqs */}
+    <Faqs/>
     <Footer/>
     </>
   )
