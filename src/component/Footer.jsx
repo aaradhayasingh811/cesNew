@@ -85,7 +85,7 @@ const Footer = () => {
         </div>
 
         {/* Get Help Section */}
-        <div className="w-full sm:w-1/2 md:w-1/4 mb-6 ps-20">
+        <div className="w-full sm:w-1/2 md:w-1/4 mb-6 sm:ps-20">
           <h4 className="text-lg font-semibold mb-4 relative after:absolute after:left-0 after:bottom-[-10px] after:bg-[#177ba9] after:w-12 after:h-1">
           Our Other Events
 
@@ -94,13 +94,13 @@ const Footer = () => {
             <li className="mb-2"><a href="#" className="hover:text-[#177ba9] transition">CTF</a></li>
             <li className="mb-2"><a href="#" className="hover:text-[#177ba9] transition">Wield The Web</a></li>
             <li className="mb-2"><a href="#" className="hover:text-[#177ba9] transition">Games of Code</a></li>
-            <li className="mb-2"><a href="#" className="hover:text-[#177ba9] transition"></a></li>Codigo
+            <li className="mb-2"><a href="#" className="hover:text-[#177ba9] transition">Codigo</a></li>
             
           </ul>
         </div>
 
         {/* Online Shop Section */}
-        <div className="w-full sm:w-1/2 md:w-1/4 mb-6 ps-20">
+        <div className="w-full sm:w-1/2 md:w-1/4 mb-6 md:ps-20">
           <h4 className="text-lg font-semibold mb-4 relative after:absolute after:left-0 after:bottom-[-10px] after:bg-[#177ba9] after:w-12 after:h-1">
           Annual Event and Magazine
 
@@ -115,7 +115,7 @@ const Footer = () => {
         </div>
 
         {/* Social Media Section */}
-        <div className="w-full sm:w-1/2 md:w-1/4 mb-6 ps-20">
+        <div className="w-full sm:w-1/2 md:w-1/4 mb-6 md:ps-20">
           <h4 className="text-lg font-semibold mb-4 relative after:absolute after:left-0 after:bottom-[-10px] after:bg-[#177ba9] after:w-12 after:h-1">
             Follow Us
           </h4>
