@@ -6,8 +6,9 @@ import About from './component/About'
 import Faculty from './component/Faculty'
 import Event from './component/Event'
 import Footer from './component/Footer'
-// import DisabledAccordion from './component/DisabledAccordion'
 import Faqs from './component/Faqs'
+import Contact from './component/Contact'
+
 function App() {
 
   return (
@@ -19,6 +20,7 @@ function App() {
     <Event/>
     {/* faqs */}
     <Faqs/>
+    <Contact/>
     <Footer/>
     </>
   )
